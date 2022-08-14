@@ -14,6 +14,6 @@ opacity: 5;
 #main {margin-left: 120px}
 
 /* Remove margins from "page content" on small screens */
-@media only screen and (max-width: 800px) {#
-main {margin-left: 0}}
+@media only screen and (max-width: 800px) 
+{#main {margin-left: 0px}}
 
