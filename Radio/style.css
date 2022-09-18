@@ -1,0 +1,15 @@
+body {background-color: #036;}
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif;}
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+body {
+background-image: url("psmoke.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+}
