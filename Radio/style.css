@@ -13,3 +13,9 @@ background-size: cover;
 background-repeat: no-repeat;
 color: white;
 }
+
+
+.line-1 {
+  height: 1px;
+  background: white;
+}
