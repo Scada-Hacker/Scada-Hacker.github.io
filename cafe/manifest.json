@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "Cafe App",
+    "short_name": "Cafe App",
+    "description": "PWA designed for testing purposes",
+    "start_url": "/",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/icon512.png",
+            "sizes": "512x512"
+        }
+    ]
+}
