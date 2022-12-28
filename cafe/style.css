@@ -6,7 +6,7 @@ body, html {
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: url("w3images/background.png");
+  background-image: url("./w3images/background.png");
   min-height: 75%;
 }
 
