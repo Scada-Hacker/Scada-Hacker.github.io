@@ -4,7 +4,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 #backgrnd {
   background-image: url("../Images/background.jpeg");
   background-repeat: no-repeat;
-    background-size: 764px 390px;
+    background-size: 1024px 512px;
 }
 
 /* Set the width of the sidebar to 120px */
