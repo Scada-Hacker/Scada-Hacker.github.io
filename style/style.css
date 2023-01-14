@@ -8,6 +8,8 @@ opacity: 5;
 body {
   background-image: url("../Images/background.jpeg");
   background-repeat: no-repeat;
+  opacity: 0.2;
+  
 }
 
 /* Set the width of the sidebar to 120px */
