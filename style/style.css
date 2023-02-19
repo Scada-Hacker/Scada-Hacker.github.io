@@ -1,4 +1,8 @@
-body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+body, h1,h2,h3,h4,h5,h6 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
+
 .w3-row-padding img {margin-bottom: 12px}
 
 #backgrnd {
